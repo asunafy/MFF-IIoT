@@ -1,5 +1,3 @@
-nes (16 sloc)  351 Bytes
-
 #ifndef RANDOM_H
 #define RANDOM_H
 
